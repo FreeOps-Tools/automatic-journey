@@ -1,1 +1,2 @@
-# automatic-journey
+# Automatic Journey
+
